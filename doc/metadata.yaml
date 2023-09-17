@@ -1,0 +1,13 @@
+description: 'Platfolm for soldering testing circuits. '
+github_branch: UNIUNI01A
+github_description: 'Platfolm for soldering testing circuits. '
+github_repo: UNIUNI01
+github_url: https://github.com/mlab-modules/UNIUNI01
+homepage: false
+images:
+- doc/img/UNIUNI01A_QRcode.png
+mark: 50
+status: 0
+tags: []
+title: UNIUNI01
+updated: '2023-09-17T11:34:32.145352+00:00'
