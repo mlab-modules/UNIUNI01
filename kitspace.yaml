@@ -5,4 +5,5 @@ eda:
   type: kicad
 gerbers: hw/cam_profi/
 site: https://github.com/mlab-modules/UNIUNI01
-summary: 'Platfolm for soldering testing circuits. '
+summary: Universal PCB for soldering and testing circuits, compatible with MLAB kits,
+  ideal for prototyping.

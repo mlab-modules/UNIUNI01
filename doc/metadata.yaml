@@ -1,6 +1,8 @@
-description: 'Platfolm for soldering testing circuits. '
+description: Universal PCB for soldering and testing circuits, compatible with MLAB
+  kits, ideal for prototyping.
 github_branch: UNIUNI01A
-github_description: 'Platfolm for soldering testing circuits. '
+github_description: Universal PCB for soldering and testing circuits, compatible with
+  MLAB kits, ideal for prototyping.
 github_repo: UNIUNI01
 github_url: https://github.com/mlab-modules/UNIUNI01
 homepage: false
@@ -11,4 +13,4 @@ mark: 50
 status: 2
 tags: []
 title: UNIUNI01
-updated: '2024-07-05T17:59:01.738252+00:00'
+updated: '2024-07-05T18:00:21.839901+00:00'
